@@ -28,7 +28,7 @@ const AdminInformeTable = ({
       </div>
 
       {/* Search Bar */}
-      <div className="relative max-w-sm mx-auto mb-6 w-full">
+      <div className="relative w-full max-w-md mx-auto mb-6">
         <FaSearch className="absolute left-3 top-3 text-gray-400" />
         <input
           type="text"
